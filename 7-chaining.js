@@ -4,6 +4,7 @@ const users = require('./users.json')
 // ages of 35 and 45
 const initValue = {}
 const results = users
+    .filter(u => u.age > 27 && u.age < 43)
     .reduce((agg, user) => {
         // check for existing key
         if (Object.keys(agg).indexOf(user.eyeColor) < 0) {

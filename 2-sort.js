@@ -18,7 +18,7 @@ const eyeColorSort = users.sort((a, b) => {
     if (a.eyeColor < b.eyeColor) {
         return -1
     } else if (a.eyeColor > b.eyeColor) {
-        return 1
+        return
     }
     return 0
 })

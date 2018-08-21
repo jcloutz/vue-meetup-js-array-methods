@@ -2,10 +2,7 @@ const todos = require('./todos.json')
 
 // Use array.reduce() to sum the array
 const numbers = [1, 2, 3, 4, 5]
-var sum = 0
-for (let i = 0; i < numbers.length; i++) {
-    sum += numbers[i]
-}
+const sum = numbers.reduce((acc, n) => acc + n, 0)
 
 console.log(sum)
 
@@ -14,12 +11,14 @@ const todosAggregate = {
     complete: 0,
     incomplete: 0
 }
-for (let i = 0; i < todos.length; i++) {
-    if (todos[i].completed) {
-        todosAggregate.complete++
+const result = todos.reduce((agg, t) => {
+    if (t.completed) {
+        agg.complete++
     } else {
-        todosAggregate.incomplete++
+        agg.incomplete++
     }
-}
 
-console.log(todosAggregate)
+    return agg
+}, todosAggregate)
+
+console.log(result)

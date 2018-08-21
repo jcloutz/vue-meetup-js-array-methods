@@ -10,7 +10,13 @@ const user = {
 
 // create a copy of the user using the spread operator and change the users
 // eye color to blue without modifying the original
-const userCopy = Object.assign({}, user, { eyeColor: 'blue' })
+// const userCopy = Object.assign({}, user, {
+//     eyeColor: 'blue'
+// })
+const userCopy = {
+    ...user,
+    eyeColor: 'blue'
+}
 
 console.log('User: ', user)
 console.log('User copy: ', userCopy)
@@ -20,7 +26,10 @@ const u = user
 console.log(u.age, u.eyeColor)
 
 // Access object values using destructuring in function args
-const getContactInfo = (user) => {
-    console.log(`${user.name}: ${user.email}`)
+const getContactInfo = ({
+    name,
+    email
+}) => {
+    console.log(`${name}: ${email}`)
 }
 getContactInfo(user)
