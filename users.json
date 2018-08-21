@@ -1,0 +1,451 @@
+[{
+        "id": 1,
+        "name": "Ollie Baker",
+        "gender": "female",
+        "eyeColor": "brown",
+        "email": "olliebaker@cujo.com",
+        "age": 48,
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": 2,
+        "name": "Bush Mitchell",
+        "gender": "male",
+        "eyeColor": "brown",
+        "email": "bushmitchell@cujo.com",
+        "age": 66,
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": 3,
+        "name": "Fletcher Benjamin",
+        "gender": "male",
+        "eyeColor": "gray",
+        "email": "fletcherbenjamin@cujo.com",
+        "age": 38,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 4,
+        "name": "Deanna Sanders",
+        "gender": "female",
+        "eyeColor": "brown",
+        "email": "deannasanders@cujo.com",
+        "age": 41,
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": 5,
+        "name": "Cochran Horn",
+        "gender": "male",
+        "eyeColor": "blue",
+        "email": "cochranhorn@cujo.com",
+        "age": 20,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 6,
+        "name": "Kerri Ashley",
+        "gender": "female",
+        "eyeColor": "blue",
+        "email": "kerriashley@cujo.com",
+        "age": 74,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 7,
+        "name": "Terrell Gonzalez",
+        "gender": "male",
+        "eyeColor": "brown",
+        "email": "terrellgonzalez@cujo.com",
+        "age": 79,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 8,
+        "name": "Sherman Meyers",
+        "gender": "male",
+        "eyeColor": "blue",
+        "email": "shermanmeyers@cujo.com",
+        "age": 32,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 9,
+        "name": "Ayers Hunt",
+        "gender": "male",
+        "eyeColor": "hazel",
+        "email": "ayershunt@cujo.com",
+        "age": 82,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 10,
+        "name": "Cherry Walls",
+        "gender": "female",
+        "eyeColor": "green",
+        "email": "cherrywalls@cujo.com",
+        "age": 22,
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": 11,
+        "name": "Dena Lowe",
+        "gender": "female",
+        "eyeColor": "brown",
+        "email": "denalowe@cujo.com",
+        "age": 27,
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": 12,
+        "name": "Marcie Cross",
+        "gender": "female",
+        "eyeColor": "brown",
+        "email": "marciecross@cujo.com",
+        "age": 72,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 13,
+        "name": "Ellis Swanson",
+        "gender": "male",
+        "eyeColor": "brown",
+        "email": "ellisswanson@cujo.com",
+        "age": 60,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 14,
+        "name": "Colleen Duke",
+        "gender": "female",
+        "eyeColor": "hazel",
+        "email": "colleenduke@cujo.com",
+        "age": 17,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 15,
+        "name": "Gwen Leach",
+        "gender": "female",
+        "eyeColor": "gray",
+        "email": "gwenleach@cujo.com",
+        "age": 17,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 16,
+        "name": "Pratt Glass",
+        "gender": "male",
+        "eyeColor": "blue",
+        "email": "prattglass@cujo.com",
+        "age": 42,
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": 17,
+        "name": "Liza Waters",
+        "gender": "female",
+        "eyeColor": "hazel",
+        "email": "lizawaters@cujo.com",
+        "age": 55,
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": 18,
+        "name": "Maxwell Macdonald",
+        "gender": "male",
+        "eyeColor": "hazel",
+        "email": "maxwellmacdonald@cujo.com",
+        "age": 77,
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": 19,
+        "name": "Medina Sweet",
+        "gender": "male",
+        "eyeColor": "green",
+        "email": "medinasweet@cujo.com",
+        "age": 74,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 20,
+        "name": "Robyn Cameron",
+        "gender": "female",
+        "eyeColor": "gray",
+        "email": "robyncameron@cujo.com",
+        "age": 76,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 21,
+        "name": "Jackson Coffey",
+        "gender": "male",
+        "eyeColor": "gray",
+        "email": "jacksoncoffey@cujo.com",
+        "age": 42,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 22,
+        "name": "Cooper Rich",
+        "gender": "male",
+        "eyeColor": "gray",
+        "email": "cooperrich@cujo.com",
+        "age": 61,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 23,
+        "name": "Bradshaw Irwin",
+        "gender": "male",
+        "eyeColor": "brown",
+        "email": "bradshawirwin@cujo.com",
+        "age": 62,
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": 24,
+        "name": "Frankie Christian",
+        "gender": "female",
+        "eyeColor": "brown",
+        "email": "frankiechristian@cujo.com",
+        "age": 71,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 25,
+        "name": "Jacobson Craft",
+        "gender": "male",
+        "eyeColor": "brown",
+        "email": "jacobsoncraft@cujo.com",
+        "age": 20,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 26,
+        "name": "Bishop Huffman",
+        "gender": "male",
+        "eyeColor": "green",
+        "email": "bishophuffman@cujo.com",
+        "age": 74,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 27,
+        "name": "Benson Reed",
+        "gender": "male",
+        "eyeColor": "blue",
+        "email": "bensonreed@cujo.com",
+        "age": 71,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 28,
+        "name": "Stanton Hunter",
+        "gender": "male",
+        "eyeColor": "hazel",
+        "email": "stantonhunter@cujo.com",
+        "age": 62,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 29,
+        "name": "Collins Black",
+        "gender": "male",
+        "eyeColor": "green",
+        "email": "collinsblack@cujo.com",
+        "age": 43,
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": 30,
+        "name": "Wilder Gibson",
+        "gender": "male",
+        "eyeColor": "hazel",
+        "email": "wildergibson@cujo.com",
+        "age": 79,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 31,
+        "name": "Ophelia William",
+        "gender": "female",
+        "eyeColor": "brown",
+        "email": "opheliawilliam@cujo.com",
+        "age": 39,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 32,
+        "name": "Corine James",
+        "gender": "female",
+        "eyeColor": "hazel",
+        "email": "corinejames@cujo.com",
+        "age": 17,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 33,
+        "name": "Imogene Velasquez",
+        "gender": "female",
+        "eyeColor": "hazel",
+        "email": "imogenevelasquez@cujo.com",
+        "age": 36,
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": 34,
+        "name": "Wilson Tyson",
+        "gender": "male",
+        "eyeColor": "green",
+        "email": "wilsontyson@cujo.com",
+        "age": 35,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 35,
+        "name": "Grant Herman",
+        "gender": "male",
+        "eyeColor": "hazel",
+        "email": "grantherman@cujo.com",
+        "age": 70,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 36,
+        "name": "Steele Gonzales",
+        "gender": "male",
+        "eyeColor": "gray",
+        "email": "steelegonzales@cujo.com",
+        "age": 78,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 37,
+        "name": "Rosie Santiago",
+        "gender": "female",
+        "eyeColor": "hazel",
+        "email": "rosiesantiago@cujo.com",
+        "age": 19,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 38,
+        "name": "Nellie Lamb",
+        "gender": "female",
+        "eyeColor": "gray",
+        "email": "nellielamb@cujo.com",
+        "age": 83,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 39,
+        "name": "Tanya Berry",
+        "gender": "female",
+        "eyeColor": "blue",
+        "email": "tanyaberry@cujo.com",
+        "age": 20,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 40,
+        "name": "Katina Larson",
+        "gender": "female",
+        "eyeColor": "green",
+        "email": "katinalarson@cujo.com",
+        "age": 37,
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": 41,
+        "name": "Stein Beard",
+        "gender": "male",
+        "eyeColor": "gray",
+        "email": "steinbeard@cujo.com",
+        "age": 68,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 42,
+        "name": "Crosby Bolton",
+        "gender": "male",
+        "eyeColor": "hazel",
+        "email": "crosbybolton@cujo.com",
+        "age": 29,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 43,
+        "name": "Cheryl Carson",
+        "gender": "female",
+        "eyeColor": "blue",
+        "email": "cherylcarson@cujo.com",
+        "age": 31,
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 44,
+        "name": "Johnson Graham",
+        "gender": "male",
+        "eyeColor": "green",
+        "email": "johnsongraham@cujo.com",
+        "age": 27,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 45,
+        "name": "Fran Henderson",
+        "gender": "female",
+        "eyeColor": "green",
+        "email": "franhenderson@cujo.com",
+        "age": 28,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 46,
+        "name": "Janelle Martin",
+        "gender": "female",
+        "eyeColor": "green",
+        "email": "janellemartin@cujo.com",
+        "age": 15,
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": 47,
+        "name": "Alford Lopez",
+        "gender": "male",
+        "eyeColor": "blue",
+        "email": "alfordlopez@cujo.com",
+        "age": 55,
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": 48,
+        "name": "Lou Pugh",
+        "gender": "female",
+        "eyeColor": "green",
+        "email": "loupugh@cujo.com",
+        "age": 74,
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": 49,
+        "name": "Lea Pittman",
+        "gender": "female",
+        "eyeColor": "hazel",
+        "email": "leapittman@cujo.com",
+        "age": 32,
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": 50,
+        "name": "Buck Lambert",
+        "gender": "male",
+        "eyeColor": "blue",
+        "email": "bucklambert@cujo.com",
+        "age": 80,
+        "favoriteFruit": "apple"
+    }
+]
